@@ -1,1 +1,1 @@
-# JNU23
+# Boston House Prices Prediction Model
